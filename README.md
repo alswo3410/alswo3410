@@ -1,13 +1,11 @@
 ## Hi there👋 I`m minjae 
 
-<!--
-**alswo3410/alswo3410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on WSU
+- 🔭 I’m currently Learning on WSU
 - 📫 How to reach me: <alswo3410@naver.com>
--->
+  
+-안녕하세요 컴퓨터정보 보안전공 4학년 김민재입니다. 현재 파이썬, AI, SQL을 공부하고 있습니다.
 
 ## 캡스톤 프로젝트
 1.[영어수어인식 프로그램](https://github.com/alswo3410/HandSign)
@@ -18,5 +16,6 @@ Here are some ideas to get you started:
 2.[work or rest](https://github.com/alswo3410/Work-or-Rest.io)  
 3.[iphoneVSGalaxy](https://github.com/alswo3410/iphoneVSGalaxy)  
 4.[cat-or-dog](https://github.com/alswo3410/cat-or-dog)  
-  
+
+
 
