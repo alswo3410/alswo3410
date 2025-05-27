@@ -2,7 +2,6 @@
 
 
 
-- 🔭 I’m currently Learning on WSU
 - 📫 How to reach me: <alswo3410@naver.com>
   
 -안녕하세요 컴퓨터정보 보안전공 4학년 김민재입니다. 현재 파이썬, AI, SQL을 공부하고 있습니다.
